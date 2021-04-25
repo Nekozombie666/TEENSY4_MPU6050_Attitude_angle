@@ -6,7 +6,6 @@
 /**************************************************************************************/
 #if defined(__AVR_ATmega328P__) 
   #define PROMINI
-  #define USE
 #endif
 
 #if defined(__IMXRT1062__)
