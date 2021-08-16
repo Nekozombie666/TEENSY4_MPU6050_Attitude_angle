@@ -27,8 +27,8 @@
 
  * 改訂欄 --------------------------------------
    * Teensy4 に対応しました
-   * Arduino Uno, Arduino Nano　に対応しました
-   * ESP32 に 対応しました
+   * Arduino Uno　に対応予定
+   * ESP32 に 対応予定
    * 
    * Sensors.cpp _ Wire.hライブラリを使用選択可能(T4は使用)
    * Sensors.cpp _ 型の追記
